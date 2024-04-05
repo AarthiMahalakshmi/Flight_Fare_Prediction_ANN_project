@@ -4,6 +4,10 @@
 <p align="center">
     <h1 align="center">FLIGHT_FARE_PREDICTION_ANN_PROJECT</h1>
 </p>
+##  Introduction
+```
+Flight fare prediction using Artificial Neural Networks (ANN) is a data-driven approach aimed at accurately estimating flight fares by analyzing various factors such as departure time, airline, source, destination, and duration. By leveraging ANN, we can develop predictive models that learn complex patterns from historical flight data to provide reliable fare estimates for future flights. This project focuses on utilizing ANN to optimize pricing strategies for airlines and assist travelers in planning their trips effectively.
+```
 ##  Repository Structure
 
 ```sh
@@ -36,12 +40,8 @@ Use the following command to run Flight_Fare_Prediction_ANN_project:
 jupyter nbconvert --execute notebook.ipynb
 ```
 
-Once your PR is reviewed and approved, it will be merged into the main branch.
-
 </details>
 
 ---
-
-[**Return**](#-quick-links)
 
 ---
