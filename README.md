@@ -11,9 +11,13 @@
 
 
 ```
-*Flight fare prediction using Artificial Neural Networks (ANN) is a data-driven approach aimed at accurately estimating flight fares by analyzing various factors such as departure time, airline, source, destination, and duration.
-*By leveraging ANN, we can develop predictive models that learn complex patterns from historical flight data to provide reliable fare estimates for future flights.
-*This project focuses on utilizing ANN to optimize pricing strategies for airlines and assist travelers in planning their trips effectively.
+*Flight fare prediction using Artificial Neural Networks (ANN) is a data-driven approach aimed at
+accurately estimating flight fares by analyzing various factors such as departure time, airline,
+source, destination, and duration.
+*By leveraging ANN, we can develop predictive models that learn complex patterns from historical
+flight data to provide reliable fare estimates for future flights.
+*This project focuses on utilizing ANN to optimize pricing strategies for airlines and assist travelers
+in planning their trips effectively.
 ```
 
 
